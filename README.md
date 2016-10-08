@@ -10,10 +10,17 @@ Ne pas enregistrer un même user plusieurs fois. (OK)
 
 Prévoir un menu avec les liens home et users (OK)
 
+Gérer les erreurs (OK)
+Mettre l'application en ligne (n'oubliez pas de nous fournir l'url) (OK) http://158.69.54.236:1234
+
 Environnement de Dev: 
 
 Ruby version 2.3.0
 rails version 5.0.0.1
+linkedin: https://www.linkedin.com/in/mayacine-diop-8885b58a
+
+
+
 
 A votre pour tout complément d'information
 
